@@ -11,4 +11,5 @@ Extensions > Ajouter
 Cliquez sur le bouton “Téléverser une extension” qui se trouve tout en haut de la page.
 A partir de là, votre module est disponible à l’activation depuis l’administration du site.
 Si vous vous rendez dans votre back-office à la page “Extensions”, vous devriez voir apparaître une ligne supplémentaire  :
+
 Activer le plugin 
